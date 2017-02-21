@@ -3,6 +3,7 @@
 
 __pycache__
 venv
+demo
 db.sqlite3
 /static
 .DS_Store
